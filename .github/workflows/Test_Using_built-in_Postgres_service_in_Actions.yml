@@ -1,4 +1,4 @@
-# .github/worflows/test_Using_built-in_Postgres_service_in_Actions.yml
+# .github/workflows/test_Using_built-in_Postgres_service_in_Actions.yml
 name: Test_Using_built-in_Postgres_service_in_Actions
 
 on:
